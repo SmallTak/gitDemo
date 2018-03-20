@@ -7,7 +7,8 @@ public class Heoolo {
 
 		int i = 10;
 		int a = i /10;
-		System.out.println(a);
+		String name = "qiuzhihui";
+		System.out.println(name);
 		
 		System.out.println("stay!");
 		
